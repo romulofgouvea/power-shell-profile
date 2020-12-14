@@ -9,6 +9,6 @@ Colar o conteúdo do `profile.txt`
 
 Libs:
 ```
-https://github.com/dahlbyk/posh-git
+https://gist.github.com/otonii/8f8f7d002a3674614d212d9aa593e8f6
 https://github.com/PowerShell/PSReadLine
 ```
